@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Stability-Experimental-red.svg)
+[![Build Status](http://104.196.136.37/api/badges/ronggur/tinkerbell-docs/status.svg)](http://104.196.136.37/ronggur/tinkerbell-docs)
 
 # Tinkerbell Docs
 
