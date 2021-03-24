@@ -1,5 +1,5 @@
 kind: pipeline
-name: default
+name: MKDocs Test
 
 trigger:
   repo:
@@ -10,7 +10,7 @@ trigger:
 
 steps:
   - name: test
-    image: python
+    image: python:3
     commands:
     - pip install -r requirements.txt
     - pytest
